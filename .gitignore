@@ -35,3 +35,22 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+# .env codes
+
+DATABASE_URL="mongodb+srv://ucheomachukwuma47:Chukwuma001@cluster0.j3miowx.mongodb.net/Messenger-clone"
+
+NEXTAUTH_SECRET=jbhljlmxkkcsjlcujdief92u838ru48tefjiiskdw9r348
+
+GITHUB_ID=8f494aef41795e89b537
+GITHUB_SECRET=f4e5980d62012fe73765fd26cc1e4f39d00ed6ba
+
+GOOGLE_CLIENT_ID=321101711613-hm2mr6s4m5p39m9l5hrqlmedl33hlk30.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=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
+
+NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME=di1sqcpph
+
+NEXT_PUBLIC_PUSHER_APP_KEY=c63ce11bf9d28936281d
+PUSHER_APP_ID=1780852
+PUSHER_SECRET=ab623b597c452f4caa1b
