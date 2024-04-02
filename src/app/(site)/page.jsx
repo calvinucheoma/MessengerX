@@ -24,3 +24,10 @@ const HomePage = () => {
 };
 
 export default HomePage;
+
+/*
+  When deploying to Vercel, we added another script in our 'script' object in our package.json file:
+  "postinstall": "prisma generate" to deal with the prisma error we were getting when deploying
+
+
+*/
